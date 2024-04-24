@@ -1,0 +1,8 @@
+*** Yoast SEO: WooCommerce Changelog ***
+
+
+2024-04-03 - version 16.2
+* add -  Adds ProductGroup schema to be compatible with Product variant schema.
+* update -  Sets the WordPress tested up to version to 6.5.
+* update -  Sets the minimum required Yoast SEO version to 22.0.
+
